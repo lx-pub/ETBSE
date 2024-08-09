@@ -1,0 +1,7 @@
+{
+  "name": "com.my_company.my_application",
+  "description": "My Application",
+  "path": "E:\\codeplaces\\chrome-plugins\\myplugin\\dist1\\test.exe",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://cbbndckklaibkhhnejdecenlefipgikc/"]
+}

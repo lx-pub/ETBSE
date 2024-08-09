@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "(lx)server",
+  "description": "test server",
+  "version": "1.0",
+
+  "background": {
+    "service_worker": "service_worker.js"
+  }
+}
